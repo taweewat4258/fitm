@@ -1,0 +1,184 @@
+{
+    Sw3850: [
+      {
+        ip: '10.77.4.2',
+        name: 'Sw3850',
+        interface: 'Gi1/0/1',
+        status: 'up',
+        inbound: 3020,
+        outbound: 3321
+      },
+      {
+        ip: '10.77.4.2',
+        name: 'Sw3850',
+        interface: 'Gi1/0/2',
+        status: 'up',
+        inbound: 2263,
+        outbound: 3486
+      },
+      {
+        ip: '10.77.4.2',
+        name: 'Sw3850',
+        interface: 'Vlan304',
+        status: 'down',
+        inbound: [Array],
+        outbound: [Array]
+      }
+    ],
+    Sw4503: [
+      {
+        ip: '10.9.99.2',
+        name: 'Sw4503',
+        interface: 'Gi2/1',
+        status: 'up',
+        inbound: 2778,
+        outbound: 1069
+      },
+      {
+        ip: '10.9.99.2',
+        name: 'Sw4503',
+        interface: 'Gi2/2',
+        status: 'up',
+        inbound: 2380,
+        outbound: 851
+      },
+      {
+        ip: '10.9.99.2',
+        name: 'Sw4503',
+        interface: 'Gi2/3',
+        status: 'up',
+        inbound: 1283,
+        outbound: 1680
+      },
+      {
+        ip: '10.9.99.2',
+        name: 'Sw4503',
+        interface: 'Gi2/6',
+        status: 'up',
+        inbound: 2429,
+        outbound: 2345
+      },
+      {
+        ip: '10.9.99.2',
+        name: 'Sw4503',
+        interface: 'Vlan304',
+        status: 'down',
+        inbound: [Array],
+        outbound: [Array]
+      }
+    ],
+    Rshop: [
+      {
+        ip: '10.77.8.2',
+        name: 'Rshop',
+        interface: 'Gi0/49',
+        status: 'up',
+        inbound: 1082,
+        outbound: 2835
+      },
+      {
+        ip: '10.77.8.2',
+        name: 'Rshop',
+        interface: 'Gi0/51',
+        status: 'up',
+        inbound: 2952,
+        outbound: 990
+      }
+    ],
+    R101C: [
+      {
+        ip: '10.77.7.2',
+        name: 'R101C',
+        interface: 'Gi0/48',
+        status: 'up',
+        inbound: 398,
+        outbound: 123
+      },
+      {
+        ip: '10.77.7.2',
+        name: 'R101C',
+        interface: 'Gi0/49',
+        status: 'up',
+        inbound: 1542,
+        outbound: 110
+      }
+    ],
+    R124: [
+      {
+        ip: '10.77.1.2',
+        name: 'R124',
+        interface: 'Gi0/3',
+        status: 'up',
+        inbound: 1316,
+        outbound: 3476
+      },
+      {
+        ip: '10.77.1.2',
+        name: 'R124',
+        interface: 'Gi0/49',
+        status: 'up',
+        inbound: 876,
+        outbound: 3772
+      },
+      {
+        ip: '10.77.1.2',
+        name: 'R124',
+        interface: 'Gi0/51',
+        status: 'up',
+        inbound: 776,
+        outbound: 2430
+      }
+    ],
+    R330A: [
+      {
+        ip: '10.77.3.2',
+        name: 'R330A',
+        interface: 'Gi0/49',
+        status: 'up',
+        inbound: 3146,
+        outbound: 1161
+      },
+      {
+        ip: '10.77.3.2',
+        name: 'R330A',
+        interface: 'Gi0/51',
+        status: 'up',
+        inbound: 1803,
+        outbound: 2727
+      }
+    ],
+    R415: [
+      {
+        ip: '10.77.5.2',
+        name: 'R415',
+        interface: 'Gi0/49',
+        status: 'up',
+        inbound: 1841,
+        outbound: 2945
+      },
+      {
+        ip: '10.77.5.2',
+        name: 'R415',
+        interface: 'Gi0/50',
+        status: 'up',
+        inbound: 2409,
+        outbound: 3756
+      },
+      {
+        ip: '10.77.5.2',
+        name: 'R415',
+        interface: 'Gi0/51',
+        status: 'up',
+        inbound: 2431,
+        outbound: 780
+      },
+      {
+        ip: '10.77.5.2',
+        name: 'R415',
+        interface: 'Gi0/52',
+        status: 'up',
+        inbound: 2727,
+        outbound: 1803
+      }
+    ]
+  }
